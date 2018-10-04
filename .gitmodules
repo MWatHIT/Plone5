@@ -3,37 +3,40 @@
 	url = git@github.com:collective/pas.plugins.sqlalchemy.git
 [submodule "sites/src/emc.bokeh"]
 	path = sites/src/emc.bokeh
-	url = git@github.com:adam139/emc.bokeh.git
+	url = git@github.com:MWatHIT/emc.bokeh.git
 [submodule "sites/src/emc.policy"]
 	path = sites/src/emc.policy
-	url = git@github.com:adam139/emc.policy.git
+	url = git@github.com:MWatHIT/emc.policy.git
 [submodule "sites/src/emc.theme"]
 	path = sites/src/emc.theme
-	url = git@github.com:adam139/emc.theme.git
+	url = git@github.com:MWatHIT/emc.theme.git
 [submodule "sites/src/emc.project"]
 	path = sites/src/emc.project
-	url = git@github.com:adam139/emc.project.git
+	url = git@github.com:MWatHIT/emc.project.git
 [submodule "sites/src/collective.filepreviewbehavior"]
 	path = sites/src/collective.filepreviewbehavior
-	url = git@github.com:adam139/collective.filepreviewbehavior.git
+	url = git@github.com:MWatHIT/collective.filepreviewbehavior.git
 [submodule "sites/src/collective.gtags"]
 	path = sites/src/collective.gtags
-	url = git@github.com:adam139/collective.gtags.git
+	url = git@github.com:MWatHIT/collective.gtags.git
 [submodule "sites/src/emc.memberArea"]
 	path = sites/src/emc.memberArea
-	url = git@github.com:adam139/emc.memberArea.git
+	url = git@github.com:MWatHIT/emc.memberArea.git
 [submodule "sites/src/emc.kb"]
 	path = sites/src/emc.kb
-	url = git@github.com:adam139/emc.kb.git
+	url = git@github.com:MWatHIT/emc.kb.git
 [submodule "sites/src/plone.dexterity"]
 	path = sites/src/plone.dexterity
-	url = git@github.com:adam139/plone.dexterity.git
+	url = git@github.com:MWatHIT/plone.dexterity.git
 [submodule "sites/src/mockup"]
 	path = sites/src/mockup
-	url = git@github.com:adam139/mockup.git
+	url = git@github.com:MWatHIT/mockup.git
 [submodule "sites/src/Products.PlonePAS"]
 	path = sites/src/Products.PlonePAS
-	url = git@github.com:adam139/Products.PlonePAS.git
+	url = git@github.com:MWatHIT/Products.PlonePAS.git
 [submodule "sites/src/emc.auth"]
 	path = sites/src/emc.auth
-	url = git@github.com:adam139/emc.auth.git
+	url = git@github.com:MWatHIT/emc.auth.git
+[submodule "sites/src/plone.app.locales"]
+	path = sites/src/plone.app.locales
+	url = plone.app.locales
