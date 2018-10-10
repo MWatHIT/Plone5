@@ -37,3 +37,6 @@
 [submodule "sites/src/emc.auth"]
 	path = sites/src/emc.auth
 	url = git@github.com:MWatHIT/emc.auth.git
+[submodule "sites/src/plone.app.locales"]
+	path = sites/src/plone.app.locales
+	url = git@github.com:MWatHIT/plone.app.locales.git
